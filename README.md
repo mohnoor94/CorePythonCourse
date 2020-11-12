@@ -1,2 +1,2 @@
-# CorePythonCourse 1.0
-A course by 'Mohammad Noor' AbuKhleif and SHAI Club
+# CorePythonCourse 2.0
+A Python course by 'Mohammad Noor' AbuKhleif and SHAI Club.
