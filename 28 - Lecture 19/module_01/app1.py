@@ -7,3 +7,5 @@ print('------')
 
 print(math_helpers.avg(10, 12, 14, 20))
 print(math_helpers.avg())
+
+print(help(math_helpers))
