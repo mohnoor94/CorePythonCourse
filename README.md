@@ -19,9 +19,26 @@ The contents of the course are still in the creation phase and being updated reg
 1. For Loops
 1. Dictionaries
 1. Sets
-1. Functional Programming (Lambda, map Function, filter Function, all Function, any Function, sum Function, max and min Functions, …)
-1. List Comprehensions
+1. Functional Programming
+    1. Pure Functions
+    1. Lambda Functions
+    1. `map`
+    1. `filter`
+    1. `enumerate`
+    1. `sorted`
+    1. `all`
+    1. `any`
+    1. `sum`
+    1. `max`
+    1. `min`
+    1. `zip`
+    1. `reduce` (TBA)
+1. Scripting
+1. Code Reuse: Modules
+    1. Built-in Modules
+    1. External Modules
 1. Object Oriented Programming
 1. Classes and Methods
-1. Code Reuse (Inheritance, Compositions, and Modules)
+1. Code Reuse: Inheritance, Compositions
+1. List Comprehensions
 1. Final Guided Project
