@@ -1,4 +1,4 @@
-# CorePythonCourse 2.0
+# CorePythonCourse
 A Python course by ['Mohammad Noor' AbuKhleif](http://www.abukhleif.com/) and SHAI Club.
 
 ## Work In Progress
