@@ -14,4 +14,5 @@
     - with [Django](https://www.djangoproject.com/) --> [Udemy Search: Django 3](https://www.udemy.com/courses/search/?src=ukw&q=django+3)
     - with [Flask](https://flask.palletsprojects.com/en/1.1.x/) --> [Udemy Search: Flask](https://www.udemy.com/courses/search/?src=ukw&q=flask).
 1. [Cool, Fun & Easy Python Projects for Beginners (with Code)](https://hackr.io/blog/python-projects).
+1. [Python Arabic Community](https://www.youtube.com/c/PythonArabicCommunity) YouTube channel.
 1. [Python Excercises & more](http://www.abukhleif.com/category/python/).
