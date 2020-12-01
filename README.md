@@ -19,6 +19,7 @@ The contents of the course are still in the creation phase and being updated reg
 1. For Loops
 1. Dictionaries
 1. Sets
+1. Comprehensions (TBA)
 1. Functional Programming
     1. Pure Functions
     1. Lambda Functions
