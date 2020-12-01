@@ -1,5 +1,5 @@
 # CorePythonCourse
-A Python course by ['Mohammad Noor' AbuKhleif](http://www.abukhleif.com/) and SHAI Club.
+A Python course by ['Mohammad Noor' AbuKhleif](http://www.abukhleif.com/).
 
 ## Work In Progress
 The contents of the course are still in the creation phase and being updated regularly.
