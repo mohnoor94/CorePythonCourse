@@ -47,3 +47,4 @@ The contents of the course are still in the creation phase and being updated reg
     1. Code Reuse: Composition
     1. Encapsulation
     1. Class/Static VS Instance Fields
+1. Final Project (TBA)
