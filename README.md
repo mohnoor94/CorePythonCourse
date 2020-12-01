@@ -38,7 +38,11 @@ The contents of the course are still in the creation phase and being updated reg
     1. Built-in Modules
     1. External Modules
 1. Object Oriented Programming
-1. Classes and Methods
-1. Code Reuse: Inheritance, Compositions
-1. List Comprehensions
-1. Final Guided Project
+    1. OOP
+    1. Classes and Methods
+    1. Constructors
+    1. Other Special Methods
+    1. Code Reuse: Inheritance
+    1. Code Reuse: Composition
+    1. Encapsulation
+    1. Class/Static VS Instance Fields
