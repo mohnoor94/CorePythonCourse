@@ -4,6 +4,11 @@ A Python course by ['Mohammad Noor' AbuKhleif](http://www.abukhleif.com/).
 ## Work In Progress
 The contents of the course are still in the creation phase and being updated regularly.
 
+## PythonCrashCourse
+Are you looking for a qucik start?
+There is a short/crash course version of this Python course which include the most important Python basics.
+You can access the PythonCrashCourse [here](https://github.com/mohnoor94/PythonCrashCourse).
+
 ## Lectures:
 1. Welcome Aboard
     - Introduction and what will we learn?
